@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/panel">
+        <file>res/lPanel.jpg</file>
+        <file>res/logo.png</file>
+    </qresource>
+</RCC>
